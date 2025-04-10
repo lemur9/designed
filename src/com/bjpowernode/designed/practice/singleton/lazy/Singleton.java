@@ -6,12 +6,18 @@ package com.bjpowernode.designed.practice.singleton.lazy;
 public class Singleton {
     private Singleton() {}
 
-    private Singleton singleton;
+    private static Singleton singleton;
 
-    public Singleton getHungry() {
+    public static Singleton getHungry() {
         if (singleton == null) {
             singleton = new Singleton();
         }
         return singleton;
+    }
+
+    public static void main(String[] args) {
+        Singleton hungry = Singleton.getHungry();
+        Singleton hungry2 = Singleton.getHungry();
+        System.out.println(hungry == hungry2);
     }
 }

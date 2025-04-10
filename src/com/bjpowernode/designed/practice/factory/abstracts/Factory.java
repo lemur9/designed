@@ -1,4 +1,7 @@
 package com.bjpowernode.designed.practice.factory.abstracts;
 
-public record Factory() {
+import com.bjpowernode.designed.practice.factory.A;
+
+public abstract class Factory {
+    public abstract A getObj();
 }

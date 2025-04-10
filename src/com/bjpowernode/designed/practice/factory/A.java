@@ -1,4 +1,6 @@
 package com.bjpowernode.designed.practice.factory;
 
-public class A {
+public interface A {
+
+    String sing();
 }

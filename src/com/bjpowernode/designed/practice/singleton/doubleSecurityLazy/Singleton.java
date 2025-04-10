@@ -3,21 +3,19 @@ package com.bjpowernode.designed.practice.singleton.doubleSecurityLazy;
 /**
  * 懒汉式
  */
-public class DoubleSingleton {
-    private DoubleSingleton() {
+public class Singleton {
+    private Singleton() {
     }
 
-    private static DoubleSingleton singleton;
+    private volatile static Singleton singleton;
 
 
-    public static DoubleSingleton getHungry() {
-        synchronized (new Object()) {
+    public static Singleton getHungry() {
             if (singleton == null) {
-                synchronized (new Object()) {
-                    singleton = new DoubleSingleton();
+                synchronized (Singleton.class) {
+                    singleton = new Singleton();
                 }
             }
-        }
         return singleton;
     }
 }

@@ -1,4 +1,4 @@
-package com.bjpowernode.designed.practice.statics;
+package com.bjpowernode.designed.practice.singleton.statics;
 
 /**
  * 懒汉式
