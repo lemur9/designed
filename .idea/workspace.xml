@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76c8ab89-b73f-401e-8453-052c1a69e6f7" name="Changes" comment="练习单例模式、工厂模式">
+      <change afterPath="$PROJECT_DIR$/notes/img/Employee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/customer_address.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/customer_product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20191229173422328.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20191229173455149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20191229173518926.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20191229173539838.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20191229173554296.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200207194617620.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200207234545691.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200208180417291.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200208182322313.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200208212930857.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200210143039168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200210144457478.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200211130313251.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200214110924010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200214215446638.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200215220322641.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200215225227616.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200401214509176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200401222951963.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200413225341516.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200426233931693.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200429111324770.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200429165544151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200429185050396.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200429204239868.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200429204700956.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200429211132185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/image-20200430220155371.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/jdk源码解析.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/node.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/open-close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/中介者模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/享元模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/依赖倒转原则.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/依赖倒转原则改进.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/俄罗斯方块.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/原型模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/原型模式1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/原型模式2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/原型模式3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/合成复用原则.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/合成复用原则1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/命令模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/外观模式-jdk源码解析.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/外观模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/外观模式引入.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/对象适配器模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/工厂方法模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/工厂设计模式引入.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/建造者模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/建造者模式1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/抽象工厂模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/接口隔离原则.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/接口隔离原则1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/桥接模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/模板方法模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/正方形不是长方形.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/正方形不是长方形改进.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/状态模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/状态模式前.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/白箱备忘录模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/策略模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/简单工厂模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/组合模式-安全性.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/组合模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/装饰者模式-jdk源码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/装饰者模式-使用前.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/装饰者模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/观察者模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/解释器模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/访问者模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/责任链模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/转接头.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/迪米特法则.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/迭代器模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/适配器模式-jdk源码解析.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/适配器模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/静态代理.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/img/黑箱备忘录模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/设计模式-day01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/设计模式-day02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/设计模式-day03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/设计模式-day04.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/设计模式-day05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/设计模式-day06.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/pattern/behavioral/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/pattern/creational/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/pattern/structural/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/practice/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/practice/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/practice/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/practice/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/practice/ProductBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/principle/composititionaggregation/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/principle/demeter/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/principle/dependencyinversion/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/principle/interfacesegregation/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/principle/liskovsubstitution/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/principle/openclose/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/principle/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bjpowernode/designed/principle/singleresponsibility/package-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="module-info" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vhOQ17RupI8EUr3hcxrflBGFt1" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Client.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.com.bjpowernode.designed.practice.Client.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bjpowernode.designed.practice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bjpowernode.designed.practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.bjpowernode.designed.practice.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.designed.practice.singleton.Client" />
+      <module name="designed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.designed.practice.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.designed.pattern.creational.abstractfactory.Test" />
+      <module name="designed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.designed.pattern.creational.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bjpowernode.designed.practice.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjpowernode.designed.practice.Client" />
+      <module name="designed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpowernode.designed.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.bjpowernode.designed.practice.Client" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76c8ab89-b73f-401e-8453-052c1a69e6f7" name="Changes" comment="练习单例模式、工厂模式" />
+      <created>1744593821018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744593821018</updated>
+      <workItem from="1744593823417" duration="975000" />
+      <workItem from="1744681497116" duration="599000" />
+      <workItem from="1745128729966" duration="8388000" />
+      <workItem from="1745198922798" duration="11574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="练习单例模式、工厂模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习单例模式、工厂模式" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
